@@ -29,6 +29,12 @@
 
 ## Credenziali di Accesso
 
+### Servizi Wifi
+
+| ESSID (Nome Rete) | Password   | Encryption   |
+| ----------------- | ---------- | ------------ |
+| [Nome_Rete]       | [Password] | [Encryption] |
+
 ### Servizi di Rete Locale
 
 | Servizio        | Username   | Password   | Url   |
@@ -54,3 +60,4 @@
 ## Conclusioni
 
 - [Conclusioni generali sullo stato della sicurezza]
+
