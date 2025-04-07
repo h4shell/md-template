@@ -14,8 +14,8 @@
 - **tipo IP**
   - [✔️] Ipv4 Dinamico
   - [❌] Ipv6 Dinamico
-  - [❌] Ipv4 Statico
-  - [❌] Ipv6 Statico
+  - [❌] Ipv4 Statico (0.0.0.0)
+  - [❌] Ipv6 Statico (::)
 
 ## Infrastruttura di Rete Interna
 
