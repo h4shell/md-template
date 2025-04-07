@@ -49,15 +49,59 @@
 | ChatGPT          | [Username] | [Password] | [Url] |
 | [Altro Servizio] | [Username] | [Password] | [Url] |
 
+## Information Gathering
+
+### Analisi OSINT
+
+| Fonte             | Informazioni Trovate       | Livello di Esposizione |
+| ----------------- | -------------------------- | ---------------------- |
+| Google            | [Risultati ricerca]        | [Alto/Medio/Basso]     |
+| Social Media      | [Informazioni pubbliche]   | [Alto/Medio/Basso]     |
+| Whois/Registrar   | [Informazioni dominio]     | [Alto/Medio/Basso]     |
+| Cache/Archive.org | [Versioni precedenti siti] | [Alto/Medio/Basso]     |
+
+### Scansione Porte e Servizi
+
+| IP   | Porte Aperte | Servizi    | Versioni   | Vulnerabilità     |
+| ---- | ------------ | ---------- | ---------- | ----------------- |
+| [IP] | [Porta]      | [Servizio] | [Versione] | [CVE/Descrizione] |
+
+### Vulnerabilità Web Identificate
+
+| URL   | Tipo Vulnerabilità | Gravità            | Dettagli      |
+| ----- | ------------------ | ------------------ | ------------- |
+| [URL] | [XSS/SQLi/etc]     | [Alta/Media/Bassa] | [Descrizione] |
+
+### Password Compromesse
+
+| Account/Email | Servizio Compromesso | Data Breach | Verificato su HaveIBeenPwned |
+| ------------- | -------------------- | ----------- | ---------------------------- |
+| [Email]       | [Nome del Servizio]  | [Data]      | [✓]                          |
+| [Email]       | [Nome del Servizio]  | [Data]      | [✓]                          |
+
 ## Note Aggiuntive
 
 - [Eventuali note o osservazioni aggiuntive]
 
-## Raccomandazioni
+## Raccomandazioni di Sicurezza
 
-- [Raccomandazioni per migliorare la sicurezza]
+### Password e Autenticazione
+
+- [Raccomandazioni specifiche per le password compromesse]
+- [Suggerimenti per migliorare la gestione delle credenziali]
+
+### Infrastruttura di Rete
+
+- [Raccomandazioni per la configurazione del firewall]
+- [Suggerimenti per la gestione dei dispositivi di rete]
+
+### Servizi Web e Cloud
+
+- [Raccomandazioni per la sicurezza dei servizi online]
+- [Suggerimenti per la protezione degli account cloud]
 
 ## Conclusioni
 
 - [Conclusioni generali sullo stato della sicurezza]
-
+- [Valutazione complessiva del livello di rischio]
+- [Prossimi passi consigliati]
