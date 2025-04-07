@@ -8,6 +8,15 @@
 - **Data del Report:** [Data]
 - **Autore del Report:** [Tuo Nome]
 
+## Provider Internet
+
+- **Operatore** TIM (Telecom Italia)
+- **tipo IP**
+  - [✔️] Ipv4 Dinamico
+  - [❌] Ipv6 Dinamico
+  - [❌] Ipv4 Statico
+  - [❌] Ipv6 Statico
+
 ## Infrastruttura di Rete Interna
 
 ### Dispositivi di Rete
@@ -22,17 +31,17 @@
 
 ### Servizi di Rete Locale
 
-| Servizio        | Username   | Password   | Note   |
-| --------------- | ---------- | ---------- | ------ |
-| [Nome Servizio] | [Username] | [Password] | [Note] |
+| Servizio        | Username   | Password   | Url   |
+| --------------- | ---------- | ---------- | ----- |
+| [Nome Servizio] | [Username] | [Password] | [Url] |
 
 ### Account Cloud
 
-| Servizio         | Username   | Password   | Note   |
-| ---------------- | ---------- | ---------- | ------ |
-| Gmail            | [Username] | [Password] | [Note] |
-| ChatGPT          | [Username] | [Password] | [Note] |
-| [Altro Servizio] | [Username] | [Password] | [Note] |
+| Servizio         | Username   | Password   | url   |
+| ---------------- | ---------- | ---------- | ----- |
+| Gmail            | [Username] | [Password] | [Url] |
+| ChatGPT          | [Username] | [Password] | [Url] |
+| [Altro Servizio] | [Username] | [Password] | [Url] |
 
 ## Note Aggiuntive
 
